@@ -4,7 +4,8 @@
   "description": "Start a Nodejs Server",
   "main": "index.js",
   "dependencies": {
-    "learnyounode": "^3.5.10"
+    "learnyounode": "^3.5.10",
+    "through2-map": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
